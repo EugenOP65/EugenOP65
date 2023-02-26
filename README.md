@@ -15,7 +15,7 @@ Working with Python's frameworks Django or Flask and DataBase, PostrageSQL, MySq
 ![CSS](https://img.shields.io/badge/-CSS-090909?)
 
 
-<img align="left" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eugenop65&langs_count=8&layout=compact&theme=merko%22/%3E>
+<img align="left" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eugenop65&langs_count=8&layout=compact&theme=merko%22/%3E />
 
 [![Sauberr's GitHub stats](https://github-readme-stats.vercel.app/api?username=eugenop65&show_icons=true&theme=merko)](https://github.com/eugenop65)
 
