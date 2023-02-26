@@ -15,9 +15,9 @@ Working with Python's frameworks Django or Flask and DataBase, PostrageSQL, MySq
 ![CSS](https://img.shields.io/badge/-CSS-090909?)
 
 
-<img align="left" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sauberr&langs_count=8&layout=compact&theme=merko%22/%3E
+<img align="left" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eugenop65&langs_count=8&layout=compact&theme=merko%22/%3E
 
-[![Sauberr's GitHub stats](https://github-readme-stats.vercel.app/api?username=sauberr&show_icons=true&theme=merko)](https://github.com/Sauberr)
+[![Sauberr's GitHub stats](https://github-readme-stats.vercel.app/api?username=eugenop65&show_icons=true&theme=merko)](https://github.com/eugenop65)
 
 
 
@@ -26,5 +26,5 @@ Working with Python's frameworks Django or Flask and DataBase, PostrageSQL, MySq
 
 
  ## Pinned:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sauberr&repo=ping_pong_game.py)](https://github.com/Sauberr/ping_pong_game)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sauberr&repo=YouTube_Dowloader)](https://github.com/Sauberr/youtube_dowloader)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eugenop65&repo=ping_pong_game.py)](https://github.com/Sauberr/ping_pong_game)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eugenop65&repo=YouTube_Dowloader)](https://github.com/Sauberr/youtube_dowloader)
